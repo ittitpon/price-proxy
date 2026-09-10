@@ -24,7 +24,7 @@ the reason goes in `errors` — the ESP32 keeps showing something and you get a 
 
 | key | site | note |
 |---|---|---|
-| gold | `classic.goldtraders.or.th/UpdatePriceList.aspx` | GTA official, `<td>` table |
+| gold | `classic.goldtraders.or.th/` (home page `lbl*` spans) | GTA official; spot from foreign tab, fx from open.er-api.com, `change` computed vs prev day |
 | fuel | `motorist.co.th/petrol-prices` | Bangkok, cheapest station per grade |
 | air  | `air4thai.pcd.go.th/services/getNewAQI_JSON.php` | station `91t` = Nong Prajak Park, Udon Thani |
 
